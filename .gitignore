@@ -24,7 +24,6 @@ coverage
 .grunt
 
 
-
 # node-waf configuration
 .lock-wscript
 
